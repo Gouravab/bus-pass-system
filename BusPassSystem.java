@@ -1,0 +1,2 @@
+javac BusPassSystem.java
+java BusPassSystem
